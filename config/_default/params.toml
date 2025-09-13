@@ -16,7 +16,7 @@ enableCodeCopy = false
 replyByEmail = false
 
 # mainSections = ["section1", "section2"]
-# robots = ""
+robots = "none"
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
@@ -54,7 +54,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showMoreLink = false
   showMoreLinkDest = "/posts/"
   cardView = false
-  cardViewScreenWidth = false
+  cardViewScreenWidth = true
   layoutBackgroundBlur = true # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
 
@@ -70,7 +70,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = false # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -80,7 +80,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = false # use showTaxonomies OR showCategoryOnly, not both
