@@ -1,8 +1,7 @@
 ---
+title: "Bienvenue chez GEMS"
 description: "Bienvenue chez GEMS, ton club d’escalade à Gaillon : pour tous niveaux, débutants à confirmés, en salle et en nature."
 ---
-
-# Bienvenue chez GEMS
 
 Grimpez plus haut, vivez l’aventure, partagez la passion.
 
