@@ -2,8 +2,11 @@
 title: "Participation au championnat régional d’escalade 2025"
 date: 2025-07-15
 draft: false
-tags: ["compétition", "championnat", "résultats"]
-categories: ["Actualités"]
+categories: ["Compétition"]
+niveaux: ["Intermédiaire", "Avancé", "Expert"]
+disciplines: ["Bloc", "Voie"]
+lieux: ["Rouen"]
+saisons: ["2025-2026"]
 description: "GEMS s’est illustré au championnat régional : résultats, médailles, ambiance."
 cover: "images/actus/championnat-regional-2025.jpg"
 ---

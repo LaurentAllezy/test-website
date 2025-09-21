@@ -26,10 +26,12 @@ enableEmoji = true
   anchor = 'Center'
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  author = "authors"
-  series = "series"
+  categorie  = "categories"    # Catégorie d’article / type
+  tag        = "tags"          # Tags
+  niveau     = "niveaux"       # Niveau / difficulté
+  discipline = "disciplines"   # Discipline
+  lieu       = "lieux"         # Localisation
+  saison     = "saisons"       # Saison / année
 
 [sitemap]
   changefreq = 'daily'

@@ -2,8 +2,11 @@
 title: "Sortie falaise à Fontainebleau : retour sur une belle journée"
 date: 2025-08-30
 draft: false
-tags: ["falaise", "extérieur", "sortie"]
-categories: ["Actualités"]
+categories: ["Sorties"]
+niveaux: ["Intermédiaire"]
+lieux: ["Fontainebleau"]
+disciplines: ["Bloc"]
+saisons: ["2025-2026"]
 description: "Compte-rendu de la sortie en falaise à Fontainebleau : ambiance, difficultés et moments forts."
 cover: "images/actus/sortie-fontainebleau.jpg"
 ---

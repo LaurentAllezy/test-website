@@ -2,8 +2,9 @@
 title: "Ouverture du nouveau créneau salle pour débutants"
 date: 2025-09-10
 draft: false
-tags: ["débutant", "salle", "nouveau créneau"]
-categories: ["Actualités"]
+categories: ["Vie du club"]
+lieux: ["Salle de Gaillon"]
+saisons: ["2025-2026"]
 description: "Un nouveau créneau hebdomadaire pour les débutants ouvre dès octobre à la salle municipale de Gaillon."
 ---
 
